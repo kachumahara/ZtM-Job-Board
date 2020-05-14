@@ -63,4 +63,20 @@
       "state": "Delhi",
       "country": "India"
     }
+  },
+{
+    "id": 1004,
+    "name": "Kenneth C Achumahara",
+    "img": "![new pix](https://user-images.githubusercontent.com/42631863/81879569-07d3fb80-9540-11ea-9e65-f889d83b09b1.jpg)",
+    "links": {
+      "website": "http://achumahara-portfolio.herokuapp.com/",
+      "linkedin": "https://www.linkedin.com/in/kennethachumahara/",
+      "github": "https://github.com/kachumahara"
+    },
+    "jobTitle": "MERN Stack Developer",
+    "location": {
+      "city": "Phoenix",
+      "state": "Arizona",
+      "country": "USA"
+    }
   }
